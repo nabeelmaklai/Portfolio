@@ -26,7 +26,7 @@ Enhanced Fake News Detection with Machine Learning and NLP](https://github.com/n
 
 
 [Project 3:
-Exploratory Data Analysis (EDA) In-depth Exploratory Data Analysis (EDA) of a superstore's sales dataset, revealing critical insights and answering critical common business questions associated with the analysis](https://github.com/nabeelmaklai/Portfolio/tree/main/Projects/EDA)
+Exploratory Data Analysis (EDA) In-depth Exploratory Data Analysis (EDA) of a superstore's sales dataset, revealing critical insights and answering critical common business questions associated with the analysis](https://github.com/nabeelmaklai/Portfolio/blob/main/Projects/EDA/Superstore_EDA.ipynb)
 
 - Conducted comprehensive Exploratory Data Analysis (EDA) of a superstore's sales dataset
 - Identified and analyzed sales trends, inventory management, and opportunities for enhancing customer satisfaction

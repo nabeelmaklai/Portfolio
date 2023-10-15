@@ -11,6 +11,9 @@ Preprocessed and augmented the image data to enhance model performance
 - Fine-tuned the model hyperparameters to optimize performance 
 - Discussed challenges faced during the project and lessons learned.
 
+[Project 2 Fake News Detection with Machine Learning](https://github.com/nabeelmaklai/Portfolio/blob/main/Projects/NLP/NLP_Fake_News_Detection_Model.ipynb)
+-
+
 
 [Project 3 Exploratory Data Analysis (EDA) In-depth Exploratory Data Analysis (EDA) of a superstore's sales dataset, revealing critical insights and answering critical common business questions associated with the analysis](https://github.com/nabeelmaklai/Portfolio/tree/main/Projects/EDA)
 

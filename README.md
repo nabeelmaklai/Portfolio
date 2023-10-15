@@ -2,7 +2,7 @@
 This portfolio contain both academic and personal projects that I have worked on in the field of Data Analytics, Deep Learning and Natural Language Processing 
 
 [Project 1:
-Convolutional Neural Network for Image Classification](https://github.com/nabeelmaklai/Portfolio/tree/main/Projects/CNN)
+Convolutional Neural Network for Image Classification](https://github.com/nabeelmaklai/Portfolio/blob/main/Projects/CNN/Image_classification.ipynb)
 - Developed and trained a Convolutional Neural Network (CNN) model for image classification
 - Developed and trained a Convolutional Neural Network (CNN) model for image classification
 - Used a labeled dataset with diverse images from different categories

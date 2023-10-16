@@ -1,6 +1,7 @@
 # Data Scientist, Engineer, Researcher
 
-#### Technical Skills: Python, SQL, Sk-Learn, MATLAB, Tableau
+#### Technical Skills: Python, SQL, Pandas, Scikit-Learn, Tableau, TensorFlow, MATLAB, Microsoft Office (Word, Excel, PowerPoint, Outlook)
+
 
 ## Education
 - MSc, Data Science, Machine Learning and Digital Marketing | Gisma University of Applied Sciences, Germany (_Nov 2023_)	

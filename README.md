@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Sk-Learn, MATLAB, Tableau
 
 ## Education
-- MSc, Data Science, Machine Learning and Digital Marketing | Gisma University of Applied Sciences, Germany (_Nov 2023_)		
+- MSc, Data Science, Machine Learning and Digital Marketing | Gisma University of Applied Sciences, Germany (_Nov 2023_)	
 - MSc, Advanced Mechanical Engineering | University of Exeter, UK (_Nov 2016_)
 - BSc, Aeronautical Engineering | University of Salford, UK (_May 2012_)
 

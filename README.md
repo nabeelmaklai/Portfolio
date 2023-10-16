@@ -1,11 +1,11 @@
-# Data Scientist
+# Data Scientist, Engineer, Researcher
 
 #### Technical Skills: Python, SQL, Sk-Learn, MATLAB, Tableau
 
 ## Education
-- MSc, Data Science, Machine Learning and Digital Marketing | Gisma University of Applied Sciences, Germany (_Nov 2023_)								       		
-- MSc, Advanced Mechanical Engineering	| University of Exeter, UK (_Nov 2016_)	 			        		
-- BSc, Aeronautical Engineering |  University of Salford, UK (_May 2012_)
+  MSc, Data Science, Machine Learning and Digital Marketing | Gisma University of Applied Sciences, Germany (_Nov 2023_)								       		
+  MSc, Advanced Mechanical Engineering	| University of Exeter, UK (_Nov 2016_)	 			        		
+  BSc, Aeronautical Engineering |  University of Salford, UK (_May 2012_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
@@ -18,7 +18,6 @@
 
 ## Projects
 
-[Project 1:
 Convolutional Neural Network for Image Classification](https://github.com/nabeelmaklai/Portfolio/blob/main/Projects/CNN/Image_classification.ipynb)
 - Developed and trained a Convolutional Neural Network (CNN) model for image classification
 - Developed and trained a Convolutional Neural Network (CNN) model for image classification
@@ -30,7 +29,6 @@ Preprocessed and augmented the image data to enhance model performance
 - Fine-tuned the model hyperparameters to optimize performance 
 - Discussed challenges faced during the project and lessons learned
 
-[Project 2:
 Enhanced Fake News Detection with Machine Learning and NLP](https://github.com/nabeelmaklai/Portfolio/blob/main/Projects/NLP/NLP_Fake_News_Detection_Model.ipynb)
 - Developed a machine learning model, incorporating Natural Language Processing (NLP), to detect fake news articles from real ones
 - Utilized a labeled dataset comprising news articles and their authenticity labels (0 for fake, 1 for real)
@@ -41,8 +39,6 @@ Enhanced Fake News Detection with Machine Learning and NLP](https://github.com/n
 - Visualized performance metrics and confusion matrices to illustrate the model's effectiveness
 - Highlighted the project's significant results, emphasizing its capability to distinguish fake news from real news
 
-
-[Project 3:
 Exploratory Data Analysis (EDA) In-depth Exploratory Data Analysis (EDA) of a superstore's sales dataset, revealing critical insights and answering critical common business questions associated with the analysis](https://github.com/nabeelmaklai/Portfolio/blob/main/Projects/EDA/Superstore_EDA.ipynb)
 
 - Conducted comprehensive Exploratory Data Analysis (EDA) of a superstore's sales dataset

@@ -19,7 +19,7 @@
 - Researched and presented data across sectors, ensuring timely deliveries and customer satisfaction
 - Coordinated project approaches, aligned with senior analysts, and provided regular reports to senior management
 
-**Junior Research Analyst @ GULF RESEARCHER (_February 2017-September 2017_)**
+**Junior Analyst @ GULF RESEARCHER (_February 2017-September 2017_)**
 - Designed client deliverables in various formats, including reports and presentations.
 - Managed data transmission testing, delivered actionable insights, and facilitated project meetings
  

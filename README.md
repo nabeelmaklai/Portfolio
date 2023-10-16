@@ -8,9 +8,13 @@
 - BSc, Aeronautical Engineering | University of Salford, UK (_May 2012_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Senior Research Analyst @ GULF RESEARCHER (_January 2019 - June 2020_)**
+- Apply technical background experience, industry knowledge, organizational skills, and creative vision to lead and conduct business research for a well-known & credible company that empowers businesses and organizations through multifaceted research services.
+- Investigated key research project issues and determine the most appropriate solution, promoting quality, timeliness, and cost-effectivity.
+- Provided coaching, mentoring support and immediate troubleshoot for to 5+ team members on research projects from project initiation to completion, including defining the scope of each project and the best method of data collection.
+- Handled cross-departmental teams, along with being accountable for various aspects of the project. 
+- Independently completed a range of research projects from initiation to completion achieving 100% client satisfaction 
+- Conducted analysis tasks such as benchmarking, trend identification, industry profiling, market sizing, growth projections, and opportunity scanning, ensuring optimum project performance and maximum customer satisfaction. 
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios

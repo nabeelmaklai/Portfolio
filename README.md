@@ -9,24 +9,18 @@
 
 ## Work Experience
 **Senior Research Analyst @ GULF RESEARCHER (_January 2019 - June 2020_)**
-- Apply technical background experience, industry knowledge, organizational skills, and creative vision to lead and conduct business research for a well-known & credible company that empowers businesses and organizations through multifaceted research services.
-- Investigated key research project issues and determine the most appropriate solution, promoting quality, timeliness, and cost-effectivity.
-- Provided coaching, mentoring support and immediate troubleshoot for to 5+ team members on research projects from project initiation to completion, including defining the scope of each project and the best method of data collection.
-- Handled cross-departmental teams, along with being accountable for various aspects of the project. 
-- Independently completed a range of research projects from initiation to completion achieving 100% client satisfaction 
-- Conducted analysis tasks such as benchmarking, trend identification, industry profiling, market sizing, growth projections, and opportunity scanning, ensuring optimum project performance and maximum customer satisfaction. 
+- Led multifaceted business research projects, ensuring quality, timeliness, and cost-effectiveness
+- Provided coaching and immediate support to a team of 5+ members, achieving 100% client satisfaction
+- Conducted analysis tasks, including benchmarking, trend identification, industry profiling, and market sizing
+- Managed cross-departmental teams and project accountability
 
 **Research Analyst  @ GULF RESEARCHER (_September 2017-December 2018_)**
-- Researched, collected and presented relevant data and information across a variety of sectors including manufacturing, technology, health, finance and economics in both English and Arabic languages.
-- Ensured that deliveries were achieved adherent to the deadlines to ensure customer satisfaction and referrals.
-- Demonstrated expert interpersonal skills by coordinating goals, aligning on project approaches with Senior Research Analysts, and providing consistent reports on project progress to senior management. 
-- Analyzed project documentation, objectives, and time frame requirements to executed tasks adherent to these standards.
+- Researched and presented data across sectors, ensuring timely deliveries and customer satisfaction
+- Coordinated project approaches, aligned with senior analysts, and provided regular reports to senior management
 
 **Junior Research Analyst @ GULF RESEARCHER (_February 2017-September 2017_)**
-- Designed client deliverables in multiple formats including reports excel spreadsheets and powerpoint presentations.
-- Managed testing processes of data transmission as well as the reliability test; Delivered actionable facts and insights to clients. 
-- Served as the key point person for project meetings and liaise with various other discipline project engineers.
-- Prepared task lists/work breakdown structures, developed task durations, and created task dependencies
+- Designed client deliverables in various formats, including reports and presentations.
+- Managed data transmission testing, delivered actionable insights, and facilitated project meetings
  
 
 ## Projects

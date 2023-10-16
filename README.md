@@ -16,9 +16,18 @@
 - Independently completed a range of research projects from initiation to completion achieving 100% client satisfaction 
 - Conducted analysis tasks such as benchmarking, trend identification, industry profiling, market sizing, growth projections, and opportunity scanning, ensuring optimum project performance and maximum customer satisfaction. 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Research Analyst  @ GULF RESEARCHER (_September 2017-December 2018_)**
+- Researched, collected and presented relevant data and information across a variety of sectors including manufacturing, technology, health, finance and economics in both English and Arabic languages.
+- Ensured that deliveries were achieved adherent to the deadlines to ensure customer satisfaction and referrals.
+- Demonstrated expert interpersonal skills by coordinating goals, aligning on project approaches with Senior Research Analysts, and providing consistent reports on project progress to senior management. 
+- Analyzed project documentation, objectives, and time frame requirements to executed tasks adherent to these standards.
+
+**Junior Research Analyst @ GULF RESEARCHER (_February 2017-September 2017_)**
+- Designed client deliverables in multiple formats including reports excel spreadsheets and powerpoint presentations.
+- Managed testing processes of data transmission as well as the reliability test; Delivered actionable facts and insights to clients. 
+- Served as the key point person for project meetings and liaise with various other discipline project engineers.
+- Prepared task lists/work breakdown structures, developed task durations, and created task dependencies
+ 
 
 ## Projects
 

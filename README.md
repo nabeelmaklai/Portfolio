@@ -1,12 +1,9 @@
-<a href="https://www.linkedin.com/in/nabeelismaeelmaklai/">
-  <img src="/assets/linkedin.png" alt="LinkedIn Logo" width="40" height="40">
-</a> [LinkedIn Profile](https://www.linkedin.com/in/nabeelismaeelmaklai/)
-<a href="mailto:nabilmaklai@hotmail.com">
-  <img src="/assets/email.jpeg" alt="Email Logo" width="40" height="40">
-</a> nabilmaklai@hotmail.com
-<a href="tel:+4915236716636">
-  <img src="/assets/phone.png" alt="Phone Logo" width="40" height="40">
-</a> +49 (1523) 671-6636 / +973 3993-2161
+<img src="/assets/linkedin.png" alt="LinkedIn Logo" width="50" height="50"> LinkedIn Profile
+
+<img src="/assets/email.jpeg" alt="Email Logo" width="50" height="50"> nabilmaklai@hotmail.com
+
+<img src="/assets/phone.png" alt="Phone Logo" width="50" height="50"> +49 (1523) 671-6636 / +973 3993-2161
+
 
 
 

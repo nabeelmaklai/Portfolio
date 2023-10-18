@@ -1,5 +1,7 @@
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nabeelismaeelmaklai/)
+
 ✉️ nabilmaklai@hotmail.com
+
 ☎️ +49 (152) 3671-6636 / +973 3993-2161
 
 

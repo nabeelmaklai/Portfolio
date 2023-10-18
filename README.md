@@ -11,7 +11,7 @@
 
 # Data Scientist, Engineer, Researcher
 
-#### Technical Skills: Python, SQL, Pandas, Scikit-Learn, Tableau, TensorFlow, MATLAB, Microsoft Office (Words, Excel, PowerPoint, Outlook)
+#### Technical Skills: Python, SQL, Pandas, Scikit-Learn, Tableau, TensorFlow, MATLAB, Microsoft Office (Word, Excel, PowerPoint, Outlook)
 
 
 ## Education

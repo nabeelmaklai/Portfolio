@@ -1,13 +1,20 @@
 <a href="https://www.linkedin.com/in/nabeelismaeelmaklai/">
-  <img src="/assets/linkedin.png" alt="LinkedIn Logo" width="30" height="30">
+  <img src="/assets/linkedin.png" alt="LinkedIn Logo" width="40" height="40">
 </a> [LinkedIn Profile](https://www.linkedin.com/in/nabeelismaeelmaklai/)
-![Email Logo](/assets/email.jpeg) nabilmaklai@hotmail.com
-![Phone Logo](/assets/phone.png) +49 (1523) 671-6636 / +973 3993-2161
+<a href="mailto:nabilmaklai@hotmail.com">
+  <img src="/assets/email.jpeg" alt="Email Logo" width="40" height="40">
+</a> nabilmaklai@hotmail.com
+<a href="tel:+4915236716636">
+  <img src="/assets/phone.png" alt="Phone Logo" width="40" height="40">
+</a> +49 (1523) 671-6636 / +973 3993-2161
+
+
+
 
 
 # Data Scientist, Engineer, Researcher
 
-#### Technical Skills: Python, SQL, Pandas, Scikit-Learn, Tableau, TensorFlow, MATLAB, Microsoft Office (Words, Excel, PowerPoint, Outlook)
+#### Technical Skills: Python, SQL, Pandas, Scikit-Learn, Tableau, TensorFlow, MATLAB, Microsoft Office (Word, Excel, PowerPoint, Outlook)
 
 
 ## Education

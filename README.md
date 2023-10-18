@@ -1,8 +1,8 @@
-<img src="/assets/linkedin.png" alt="LinkedIn Logo" width="50" height="50"> LinkedIn Profile
+<img src="/assets/linkedin.png" alt="LinkedIn Logo" width="80" height="80"> LinkedIn Profile
 
-<img src="/assets/email.jpeg" alt="Email Logo" width="50" height="50"> nabilmaklai@hotmail.com
+<img src="/assets/email.jpeg" alt="Email Logo" width="80" height="80"> nabilmaklai@hotmail.com
 
-<img src="/assets/phone.png" alt="Phone Logo" width="50" height="50"> +49 (1523) 671-6636 / +973 3993-2161
+<img src="/assets/phone.png" alt="Phone Logo" width="80" height="80"> +49 (1523) 671-6636 / +973 3993-2161
 
 
 
@@ -11,7 +11,7 @@
 
 # Data Scientist, Engineer, Researcher
 
-#### Technical Skills: Python, SQL, Pandas, Scikit-Learn, Tableau, TensorFlow, MATLAB, Microsoft Office (Word, Excels, PowerPoint, Outlook)
+#### Technical Skills: Python, SQL, Pandas, Scikit-Learn, Tableau, TensorFlow, MATLAB, Microsoft Office (Word, Excel, PowerPoint, Outlook)
 
 
 ## Education

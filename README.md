@@ -1,8 +1,8 @@
-<img src="/assets/linkedin.png" alt="LinkedIn Logo" width="80" height="80"> LinkedIn Profile
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/nabeelismaeelmaklai/)
 
-<img src="/assets/email.jpeg" alt="Email Logo" width="80" height="80"> nabilmaklai@hotmail.com
+✉️ nabilmaklai@hotmail.com
 
-<img src="/assets/phone.png" alt="Phone Logo" width="80" height="80"> +49 (1523) 671-6636 / +973 3993-2161
+☎️ +49 (1523) 671-6636 / +973 3993-2161
 
 
 

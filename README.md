@@ -1,3 +1,6 @@
+![LinkedIn Logo](/assets/linkedin.png) [LinkedIn Profile](https://www.linkedin.com/in/nabeelismaeelmaklai/)
+![Email Logo](/assets/email.jpeg) [nabilmaklai@hotmail.com](mailto:your-email@example.com)
+![Phone Logo](/assets/phone.jpeg) +49 (1523) 671-6636 / +973 3993-2161
 # Data Scientist, Engineer, Researcher
 
 #### Technical Skills: Python, SQL, Pandas, Scikit-Learn, Tableau, TensorFlow, MATLAB, Microsoft Office (Word, Excel, PowerPoint, Outlook)
